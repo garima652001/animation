@@ -7,7 +7,6 @@
 		} 
 		
 		canvas { 
-           /* background-color: #F08080; */
             background-image: url(bgsi.png);
             background-size: contain;
 			width: 800px; 
@@ -15,5 +14,7 @@
 			position: absolute; 
 			top: 20%; 
 			left: 25%; 
+		
 		} 
-	 
+
+	
