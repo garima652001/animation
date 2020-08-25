@@ -1,0 +1,19 @@
+
+		h2 { 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+            text-align: center;
+            padding-top: 2rem;
+            font-size: 30px;
+		} 
+		
+		canvas { 
+           /* background-color: #F08080; */
+            background-image: url(bgsi.png);
+            background-size: contain;
+			width: 800px; 
+			height: 500px; 
+			position: absolute; 
+			top: 20%; 
+			left: 25%; 
+		} 
+	 
