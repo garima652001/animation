@@ -3,18 +3,28 @@
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
             text-align: center;
             padding-top: 2rem;
-            font-size: 30px;
+			font-size: 30px;
+			text-decoration: underline ;
 		} 
-		
+		/*Canvas creation*/
 		canvas { 
-            background-image: url(bgsi.png);
-            background-size: contain;
-			width: 800px; 
-			height: 500px; 
+            background-image: url(bricks1.png);
+			background-size: 900px 600px;	
+			width: 900px; 
+			height: 600px; 
 			position: absolute; 
-			top: 20%; 
+			top: 10%; 
 			left: 25%; 
-		
+			border: 1.5px solid white;
+	
 		} 
+
+		body{
+			background-image: url(gradient.jpg);
+			background-size: cover;
+		}
+		
+		
+
 
 	
